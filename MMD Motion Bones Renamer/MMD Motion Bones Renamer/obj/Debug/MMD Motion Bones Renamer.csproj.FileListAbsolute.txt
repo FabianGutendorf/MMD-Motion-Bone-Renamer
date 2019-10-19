@@ -1,0 +1,10 @@
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\bin\Debug\MMD Motion Bones Renamer.exe.config
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\bin\Debug\MMD Motion Bones Renamer.exe
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\bin\Debug\MMD Motion Bones Renamer.pdb
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\obj\Debug\MMD Motion Bones Renamer.csprojAssemblyReference.cache
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\obj\Debug\MMD_Motion_Bones_Renamer.Form1.resources
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\obj\Debug\MMD_Motion_Bones_Renamer.Properties.Resources.resources
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\obj\Debug\MMD Motion Bones Renamer.csproj.GenerateResource.cache
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\obj\Debug\MMD Motion Bones Renamer.csproj.CoreCompileInputs.cache
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\obj\Debug\MMD Motion Bones Renamer.exe
+C:\Users\fgute\Documents\GIT\MMD-Motion-Bone-Renamer\MMD Motion Bones Renamer\MMD Motion Bones Renamer\obj\Debug\MMD Motion Bones Renamer.pdb
